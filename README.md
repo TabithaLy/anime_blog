@@ -20,9 +20,9 @@ The goal of this project is to create a review board for anime with individual u
 
 ## Link
 
-Deployed app: [https://whispering-wildwood-37950.herokuapp.com/](https://whispering-wildwood-37950.herokuapp.com/)
+Deployed app: [https://guarded-plains-56884.herokuapp.com/](https://guarded-plains-56884.herokuapp.com/)
 
-GitHub URL: [https://github.com/fredkamm/anime_blog](https://github.com/fredkamm/anime_blog)
+GitHub URL: [https://github.com/TabithaLy/anime_blog](https://github.com/TabithaLy/anime_blog)
     
 ## Usage
     
